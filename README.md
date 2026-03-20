@@ -22,12 +22,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Optional API Key
-
-If you want real model outputs, set:
-
-```bash
-export OPENAI_API_KEY="your_key_here"
-```
-
-Without an API key, the app uses a deterministic heuristic fallback so the comparison still works.
