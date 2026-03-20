@@ -7,6 +7,12 @@ A Streamlit app that compares:
 
 This is designed to make long-context failure modes visible and show why retrieval-augmented reasoning is usually stronger for large inputs.
 
+## Live Demo
+
+Open the deployed app here:
+
+[RLM vs LLM Streamlit App](https://rlm-vs-llm-long-context-demo.streamlit.app/)
+
 ## Run
 
 ```bash
